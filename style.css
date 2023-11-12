@@ -126,13 +126,13 @@ border-radius: 5px;
 
 /*slider*/
 .slide-1{
-    background: linear-gradient(rgba(0,0,0,0.5) ,rgba(0,0,0,0.5)), url(Images/h4.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5) ,rgba(0,0,0,0.5)), url(./Images/h4.jpg);
 }
 .slide-2{
-    background: linear-gradient(rgba(0,0,0,0.5) ,rgba(0,0,0,0.5)), url(Images/h2.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5) ,rgba(0,0,0,0.5)), url(./Images/h2.jpg);
 }
 .slide-3{
-    background: linear-gradient(rgba(0,0,0,0.5) ,rgba(0,0,0,0.5)), url(Images/h3.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5) ,rgba(0,0,0,0.5)), url(./Images/h3.jpg);
 }
 .bg-cover{
     background-position: center !important;
